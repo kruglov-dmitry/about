@@ -1,0 +1,15 @@
+- “Good” is relative. There’s no absolute definition of “the best” solution. The best is relative to your constraints. Without a time limit, there’s always a better version. The ultimate meal might be a ten course dinner. But when you’re hungry and in a hurry, a hot dog is perfect.
+- The vast majority of bugs can wait, and many don’t even need to be fixed. If we tried to eliminate every bug, we’d never be done. You can’t ship anything new if you have to fix the whole world first.
+- Time should always be used strategically. There’s a huge difference between delaying other work to fix a bug versus deciding up front that the bug is worth the time to fix.
+- Work is “shipped” (merged to the main codebase) continuously in as small bites as possible.
+- The solution doesn’t matter if the problem isn’t worth solving. Is this problem more important than that problem right now
+- Nothing is bad with explicitly say “I’m still figuring out how to start”
+- Lots of things are done but nothing is really done.
+- It doesn’t have to be all or nothing.
+- which problem to tackle: Third, it should be novel. If two parts of the project are both core and small, prefer the thing that you’ve never done before. In the Clients in Projects feature, the UI for adding clients was mostly the same as the UI for adding regular users. Starting on that would have moved the project forward, but it wouldn’t have taught the team anything. It wouldn’t have eliminated uncertainty. Starting with the visibility toggle boosted everyone’s confidence because it proved that a new idea was going to work.
+- Value of imagined versus discovered tasks
+- Is the complexity really necessary and irreducible?
+- sort out the must-haves from the nice-to-haves.
+- Effective teams sequence their problem solving in the same way. They choose the most important problems first with the most unknowns, get them to the top of the hill, and leave the things that are the most routine or least worrisome for last.
+- Shipping on time means shipping something imperfect.
+- Every project is full of scope we don’t need. Every part of a product doesn’t need to be equally prominent, equally fast, and equally polished. Every use case isn’t equally common, equally critical, or equally aligned with the market we’re trying to sell to.

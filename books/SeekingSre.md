@@ -1,0 +1,13 @@
+- **Different** (i.e. from my point of view) **!= Bad**.
+- **If you write code** and release it to production, congratulations, **you own it**:
+  - The ultimate accountability for a service’s stability needs to fall on those who are building the service.
+  - This meant SWEs to take responsibility for keeping their services up in production and also taking primary on-call.
+- **Code wins arguments**:
+  - When disagreement happens, provide metrics that help all understand what is not working in a system/service and what the team is going to prioritize to improve these metrics =>
+    - what features may be delayed based on this prioritization - the potential impact to the business - so everyone can make an informed decision.
+- One of stages of development:
+  - Bootstrap phase 
+    - Do anything and everything that you need to get the service up and running. It might mean just allowing a trickle of traffic at first. It might mean quick, iterative deployments that fail fast. Figure out what the failure modes are and see how it affects other systems. 
+- When a new engineer joins the team and proposes a new idea, they may be shot down by the engineer who is **comfortable with the way the system works**. The established engineer might reject this new idea because it changes their mental model and it **changes their comfort with the system**. **This might stifle innovation**.
+- Balance between operations and features = **Leadership accountable (and measurable)** by both: delivering a **feature-rich** and **stable system**
+- Team is getting the **right level of context** for their work and **that they’re learning from other people**.
