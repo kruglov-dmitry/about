@@ -1,3 +1,9 @@
+Pain + Reflection = Progress
+
+There is a wonderful book by [Ray Dalio - "Principles"](https://www.amazon.de/-/en/Ray-Dalio/dp/1501124021) that highlight set of rules utilised him in life and work.
+
+But what about principles of effective engineering? Here is list of principles that I've found referring over and over again, shaping what am I about:
+
 ### What am I about?
 
 - **KISS** > **DRY**
